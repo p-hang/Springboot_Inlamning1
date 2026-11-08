@@ -23,7 +23,7 @@ När applikationen har startat kan du öppna den i webbläsaren.
 | Sida | URL | Beskrivning |
 |---|---|---|
 | Home | http://localhost:8080/home | Visar en välkomsttext och dagens datum. |
-| Books | http://localhost:8080/books | Visar en lista med rekommenderade böcker. |
+| Books | http://localhost:8080/books | Visar lista av alla böcker. |
 | Genre | http://localhost:8080/genre | Visar böcker och gör det möjligt att filtrera efter genre. |
 
 ### Exempel på filtrering
